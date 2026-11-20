@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+.venv/
+venv/
+
+# Data, model checkpoints, and heavy outputs
+data/
+outputs/
+artifacts/
+protected/
+adjudication/
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.parquet
+*.zip
+
+# LaTeX build artifacts
+paper/build/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

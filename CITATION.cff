@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or the Day-1 benchmark, please cite it as below. The study is unpublished."
+title: "MedShift: Diagnosis and Triage Effects under Targeted Adaptation to Constructed Clinical Context Shifts"
+type: software
+authors:
+  - given-names: Amro
+    family-names: Taha
+license: MIT
+version: "0.8.0"
+date-released: "2026-10-21"
+keywords:
+  - clinical NLP
+  - distribution shift
+  - LoRA
+  - Arabic
+  - triage
